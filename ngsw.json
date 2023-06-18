@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1686801875772,
+  "timestamp": 1687105510988,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -2499,7 +2499,7 @@
     "/generated/docs/api/upgrade/static/u_pgradem_odule.json": "599a023091a66efba408839d55e94eb0aa26ef3d",
     "/generated/docs/api/upgrade/u_pgradea_dapter.json": "c47eaee765185f90368fb2bb8d767597011b8591",
     "/generated/docs/api/upgrade/u_pgradea_dapterr_ef.json": "5ce8496351934bee3dccaf76ee3e4c61bdbf79eb",
-    "/generated/docs/app/search-data.json": "c57f1368e3e7c380e2020d70481e076a98ed1df6",
+    "/generated/docs/app/search-data.json": "ef0d6b37f2d8080c009d353aff98a675dc82904c",
     "/generated/docs/cli.json": "08c6858a1e99798cf6ba6724bbf4d89781e13d01",
     "/generated/docs/cli/add.json": "bec87f2d7ea836a36b8cc68a5366391e887613aa",
     "/generated/docs/cli/analytics.json": "a15e52388170a1fd54a02942b6dcbf0a9c2fc9d3",
@@ -2743,7 +2743,7 @@
     "/generated/docs/guide/sharing-ngmodules.json": "0886f869091491354a383b7f5d1b12ea855d5b8a",
     "/generated/docs/guide/signals.json": "d5bb8b2ac42513400b607b95cf46855c6196b856",
     "/generated/docs/guide/singleton-services.json": "15749b996627eb75393337051707f169b7279c36",
-    "/generated/docs/guide/standalone-components.json": "042fe2c310b7e1de7ed1bd76ef383bd984fac107",
+    "/generated/docs/guide/standalone-components.json": "e4f37ef8a01544ff0179e91827ca09bd38bb3f48",
     "/generated/docs/guide/standalone-migration.json": "9e4ef0adca787dbe179d0349a0bba0e858dd94f8",
     "/generated/docs/guide/static-query-migration.json": "bea9a1ac2f3e1e63f20d2a02f089a351e6aa20d3",
     "/generated/docs/guide/strict-mode.json": "791443664cf459b99cb8b56ac12d8178096f2244",
